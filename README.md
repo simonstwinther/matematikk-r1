@@ -1,5 +1,2 @@
-"# matematikk-r1" 
-"# matematikk-r1" 
-"# matematikk-r1" 
-"# matematikk-r1" 
-"# matematikk-r1" 
+# Matematikk R1
+Undervisningsmateriale brukt i faget Matematikk R1 samles her. Foreløpig primært for privat bruk. 
